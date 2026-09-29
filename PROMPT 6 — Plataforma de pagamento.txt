@@ -1,0 +1,72 @@
+PROMPT 6 — Plataforma de pagamento
+
+Vamos continuar o projeto **Mente Ativa em Casa**.
+
+Agora quero configurar a parte final do funil:
+
+**SITE/QUIZ → CHECKOUT → PAGAMENTO → ENTREGA AUTOMÁTICA**
+
+Produto:
+**14 Dias de Momentos com Quem Você Ama**
+
+Preço inicial:
+**R$27**
+
+Produto digital em PDF.
+
+Preciso de uma plataforma de pagamento que funcione bem no Brasil e permita:
+- Pix;
+- cartão;
+- checkout simples;
+- venda de produto digital;
+- garantia de 7 dias;
+- entrega automática do PDF;
+- página/link de checkout;
+- acompanhamento das vendas;
+- rastreamento adequado para Meta Ads.
+
+Pesquise somente o necessário para verificar as opções atuais.
+
+Compare as opções mais adequadas para esse caso e escolha **UMA para começarmos**, priorizando simplicidade, custo e facilidade de configuração.
+
+Depois quero configurar tudo.
+
+Me conduza de forma operacional:
+
+1. criar/configurar a conta;
+2. criar o produto;
+3. colocar nome e descrição;
+4. definir R$27;
+5. configurar Pix;
+6. configurar cartão;
+7. configurar garantia de 7 dias;
+8. cadastrar o PDF;
+9. configurar entrega automática;
+10. configurar página de obrigado;
+11. gerar o link de checkout;
+12. conectar esse link ao CTA do nosso site;
+13. configurar o rastreamento necessário para saber quando uma pessoa chegou, iniciou checkout e comprou.
+
+Não invente recursos da plataforma.
+
+Se você tiver acesso para configurar alguma coisa diretamente, faça.
+
+Se precisar que eu faça alguma parte, diga exatamente:
+
+**CLIQUE →**
+**PREENCHA →**
+**SALVE →**
+
+No final, quero ter:
+
+**PRODUTO CADASTRADO**
+**CHECKOUT FUNCIONANDO**
+**PIX FUNCIONANDO**
+**CARTÃO FUNCIONANDO**
+**PDF ENTREGUE AUTOMATICAMENTE**
+**LINK DE PAGAMENTO PRONTO**
+**RASTREAMENTO CONFIGURADO**
+
+Não volte para planejamento.
+
+Execute esta etapa.

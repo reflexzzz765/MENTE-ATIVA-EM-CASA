@@ -1,0 +1,118 @@
+RESUMO TEMA
+
+Claro. Aqui está o **resumo mestre** para usarmos como referência daqui pra frente:
+
+## 🚀 MENTE ATIVA EM CASA — FUNIL COMPLETO
+
+**Tema:** produto digital de baixo ticket para familiares de pessoas idosas, focado em **momentos de interação, entretenimento e estímulo cognitivo não clínico** através de atividades prontas para fazer em casa.
+
+### 1️⃣ PRODUTO
+**Oferta:** *14 Dias de Momentos com Quem Você Ama*
+
+- ~30 atividades imprimíveis.
+- Organizadas dentro de uma experiência de 14 dias.
+- Atividades de atenção, memória/lembranças, linguagem, raciocínio, percepção visual, palavras, números e interação familiar.
+- Linguagem simples e visual apropriado para idosos.
+- PDF pronto para imprimir.
+- Instruções simples.
+- Bônus: rotina semanal.
+- Sem promessas de tratamento ou cura.
+- Preço-teste planejado: **R$27**.
+- Garantia planejada: **7 dias**.
+
+### 2️⃣ ANÚNCIO
+**Meta Ads — Facebook + Instagram**
+
+Criativos inicialmente:
+- 1 a 5 imagens;
+- possibilidade de vídeo curto com IA;
+- diferentes ângulos: **dor → rotina → conexão → praticidade → demonstração do produto**.
+
+O anúncio não vende diretamente pelo criativo.
+
+**ANÚNCIO → QUIZ**
+
+### 3️⃣ QUIZ / PÁGINA
+A pessoa chega através do anúncio e responde perguntas simples sobre:
+
+- relação com a pessoa idosa;
+- faixa etária;
+- frequência que se encontram;
+- rotina;
+- momentos que passam juntos;
+- dificuldades para encontrar atividades;
+- contexto familiar.
+
+Objetivo: **gerar identificação e conduzir naturalmente para a solução**, sem diagnóstico médico ou perguntas sensíveis desnecessárias.
+
+Depois:
+
+**QUIZ → APRESENTAÇÃO DA OFERTA**
+
+### 4️⃣ CHECKOUT
+A pessoa conhece:
+
+**14 Dias de Momentos com Quem Você Ama**
+
+→ benefícios  
+→ o que recebe  
+→ preço  
+→ garantia  
+→ CTA
+
+Depois:
+
+**OFERTA → CHECKOUT**
+
+Pagamento por **Pix/cartão**, através da plataforma escolhida.
+
+### 5️⃣ ENTREGA
+Após pagamento aprovado:
+
+**PAGAMENTO → ENTREGA AUTOMÁTICA**
+
+A pessoa recebe imediatamente o PDF/material digital.
+
+### 6️⃣ META ADS
+Campanha já criada:
+
+**MA | Vendas | Oferta 01 | Teste 01**
+
+Configuração inicial:
+
+- Objetivo: **Vendas**
+- Compra: **Leilão**
+- Orçamento: **R$25/dia**
+- Maior volume
+- Programação contínua
+- A/B desligado
+- Sem categoria especial
+
+O Prompt 7 orienta o Claude **pela tela real do usuário**, começando com:
+
+> “Qual tela você está vendo agora? Me mande um print.”
+
+Ele conduz clique por clique e **não publica sem a autorização explícita “PODE PUBLICAR”.**
+
+### 7️⃣ ANÁLISE
+
+Depois que houver tráfego:
+
+**Impressões → CPM → CTR → CPC → Página → Quiz → Oferta → Checkout → Compra → CPA → ROAS**
+
+A ideia é descobrir onde está o gargalo e melhorar **o ponto específico**, em vez de sair mudando tudo aleatoriamente.
+
+---
+
+## 🧠 TEMA PARA GUARDAR
+
+**Mente Ativa em Casa:** projeto de negócio digital de baixo ticket que vende atividades imprimíveis para familiares de pessoas idosas, usando um funil **Meta Ads → Quiz/Página → Oferta → Checkout → Pagamento → Entrega automática**, com foco em interação familiar, entretenimento e estímulo cognitivo não clínico.
+
+**Sequência oficial:**
+
+**PROMPT 4 → PRODUTO**  
+**PROMPT 5 → SITE + QUIZ**  
+**PROMPT 6 → PAGAMENTO + ENTREGA**  
+**PROMPT 7 → META ADS + LANÇAMENTO + ANÁLISE**
+
+**Objetivo final:** parar de ficar apenas planejando e colocar o funil inteiro para funcionar, gerar dados reais e buscar as primeiras vendas.

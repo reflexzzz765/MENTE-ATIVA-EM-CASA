@@ -1,0 +1,48 @@
+PROMPT 4 — Criar os criativos/materiais
+
+Vamos continuar o projeto **Mente Ativa em Casa** exatamente de onde paramos.
+
+Não faça nova pesquisa. A estratégia, público, oferta e os 5 conceitos de anúncio já foram definidos.
+
+**Produto:** 14 Dias de Momentos com Quem Você Ama  
+**Preço inicial:** R$27  
+**Público:** filhos, netos e familiares de pessoas idosas.  
+**Proposta:** 14 atividades simples, uma por dia, para criar momentos de conversa, interação e diversão em casa. PDF imprimível + cartaz de rotina semanal.
+
+Já estou produzindo no Gemini os 5 criativos iniciais:
+
+1. Dor — "Você já ficou sem ideia nenhuma do que fazer com seu pai hoje?"
+2. Rotina — "Uma atividade pronta pra cada dia."
+3. Conexão — "Menos silêncio, mais conversa."
+4. Praticidade — "Imprimiu, já pode começar."
+5. Produto/oferta — "Veja exatamente o que você recebe."
+
+Agora quero que você cuide **somente da criação dos materiais necessários para completar essa primeira campanha**.
+
+Defina e produza os materiais que ainda faltam, pensando no funil completo.
+
+Precisamos principalmente de:
+- imagens/mockups do produto;
+- capa;
+- exemplos visuais das páginas internas;
+- imagem da oferta;
+- materiais necessários para apresentar o produto no site;
+- quaisquer outros elementos realmente necessários para vender a primeira oferta.
+
+Não crie materiais desnecessários.
+
+Para cada material, entregue:
+- o que devemos criar;
+- finalidade;
+- formato;
+- prompt pronto para Gemini, quando for necessário;
+- orientação de como usar no funil.
+
+IMPORTANTE: quando o material precisar mostrar o produto, não invente páginas ou conteúdos que ainda não existem. O visual deve ser fiel ao produto real.
+
+O objetivo desta etapa é terminar com **todos os materiais visuais necessários para vender a oferta**, prontos ou com prompts prontos para geração.
+
+Não volte para pesquisa.
+
+Comece executando.
+

@@ -1,0 +1,81 @@
+PROMPT 5 — Site + quiz + link de conversão
+
+Vamos continuar o projeto **Mente Ativa em Casa**.
+
+Agora quero construir o **site/link que receberá as pessoas vindas dos anúncios**.
+
+Não faça nova pesquisa de mercado. Não refaça a oferta.
+
+A estrutura que quero testar é:
+
+**ANÚNCIO → SITE/QUIZ → RESULTADO PERSONALIZADO → OFERTA → CHECKOUT**
+
+Produto: **14 Dias de Momentos com Quem Você Ama**  
+Preço: **R$27**
+
+O site deve funcionar principalmente no celular.
+
+Quero um quiz curto, envolvente e relacionado ao nosso nicho.
+
+O objetivo NÃO é diagnosticar saúde.
+
+Queremos descobrir informações sobre a rotina da pessoa e do familiar idoso para que, no final, a experiência pareça relevante e personalizada.
+
+Podemos perguntar coisas como:
+- idade aproximada do familiar;
+- relação com ele;
+- frequência com que se encontram;
+- quanto tempo passam juntos;
+- quanto tempo ele costuma ficar sozinho;
+- como normalmente passam o tempo;
+- se existe dificuldade para encontrar atividades para fazer juntos;
+- quais tipos de atividades parecem combinar mais com ele.
+
+Não faça perguntas médicas invasivas ou desnecessárias.
+
+Quero que você construa a experiência completa:
+
+**ABERTURA → PERGUNTAS → RESULTADO → APRESENTAÇÃO DO PROBLEMA → SOLUÇÃO → PRODUTO → OFERTA → CTA**
+
+O resultado deve conectar as respostas da pessoa com a proposta do produto sem fingir que fizemos diagnóstico.
+
+Exemplo de sensação que queremos causar:
+
+"Agora entendi por que estava difícil encontrar coisas para fazer juntos. Isso parece ter sido feito exatamente para minha situação."
+
+Depois do resultado, apresentar:
+- 14 Dias de Momentos com Quem Você Ama;
+- como funciona;
+- 14 atividades;
+- bônus;
+- benefícios;
+- imagens reais do produto;
+- R$27;
+- garantia de 7 dias;
+- FAQ;
+- CTA forte.
+
+O CTA final deve levar diretamente para o checkout.
+
+Quero que você escolha a forma mais simples de construir esse site usando uma ferramenta gratuita ou barata que permita publicar um link real.
+
+Se você tiver acesso à ferramenta necessária, construa/configure o que conseguir.
+
+Se não tiver acesso, me diga exatamente:
+**onde criar → o que clicar → o que preencher → o que publicar.**
+
+Também quero que a página seja pensada para conversão:
+- rápida;
+- mobile-first;
+- sem menu desnecessário;
+- sem distrações;
+- visual profissional;
+- poucos textos, mas persuasivos;
+- CTA claro;
+- carregamento simples.
+
+No final, quero sair desta etapa com um **link funcional ou com tudo pronto para eu publicar o link**.
+
+Não volte para pesquisa.
+
+Comece executando.

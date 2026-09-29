@@ -1,0 +1,25 @@
+PROMPT (PLANO B GEMINI)
+
+(CRIAR TESTES DE ANUNCIO PRIMEIRO PRODUTO)
+
+Criativo 1 — DOR / “Não sei mais o que fazer”
+"Crie um anúncio vertical 4:5 para Instagram e Facebook para a marca 'Mente Ativa em Casa'. Público: filhos e netos que cuidam ou convivem com pais ou avós idosos. Cena realista e emocional: uma mulher adulta sentada ao lado da mãe idosa em casa, as duas olhando uma para a outra, com expressão de carinho, mas a filha parece não saber como ocupar aquele momento. Sobre a mesa há folhas impressas com atividades simples. A imagem deve transmitir a sensação de 'quero fazer algo com minha mãe, mas não sei o quê'. Estilo fotografia publicitária profissional, natural, acolhedor, brasileiro, iluminação quente, sem aparência artificial. Deixe espaço visual para texto. Não faça promessas médicas e não use palavras como Alzheimer, cura ou tratamento."
+
+
+Criativo 2 — ROTINA / “Uma atividade por dia”
+"Crie um anúncio vertical 4:5 para Instagram e Facebook para 'Mente Ativa em Casa'. Mostre uma mesa de casa organizada com um calendário aberto e várias atividades impressas simples para uma pessoa idosa fazer durante a semana, com lápis ao lado. Uma filha ou neta pode aparecer ajudando a idosa. A ideia é mostrar uma rotina simples de uma atividade por dia, sem complicação. Visual alegre, acolhedor e familiar, fotografia publicitária profissional, realista, brasileiro, iluminação natural. Destaque visualmente a praticidade e a organização. Não faça promessas médicas."
+
+
+Criativo 3 — CONEXÃO / “Fazer juntos”
+"Crie um anúncio vertical 4:5 para Instagram e Facebook para 'Mente Ativa em Casa'. Mostre uma avó idosa e sua neta adulta sentadas juntas à mesa, fazendo uma atividade impressa, conversando e sorrindo naturalmente. O foco principal deve ser o momento de conexão entre as duas, não apenas o exercício. Ambiente doméstico brasileiro, aconchegante e realista, fotografia publicitária profissional, iluminação natural, expressão espontânea. Deixe espaço para inserir uma frase curta no anúncio. Não faça promessas médicas."
+
+
+Criativo 4 — PRATICIDADE / “Imprima e comece”
+"Crie um anúncio vertical 4:5 para Instagram e Facebook para 'Mente Ativa em Casa'. Mostre uma impressora doméstica imprimindo folhas de atividades para idosos e, ao lado, uma mesa já preparada com lápis e as folhas prontas para usar. Uma pessoa idosa pode aparecer começando uma das atividades. A imagem deve comunicar imediatamente: recebeu, imprimiu e pode começar. Estilo fotografia publicitária profissional, extremamente realista, ambiente doméstico brasileiro, limpo, simples e acolhedor. Visual de produto digital fácil de usar. Não faça promessas médicas."
+
+
+Criativo 5 — PRODUTO / OFERTA
+"Crie um anúncio vertical 4:5 para Instagram e Facebook para 'Mente Ativa em Casa'. Crie uma apresentação visual premium de um kit digital de atividades para idosos: várias folhas impressas organizadas sobre uma mesa, algumas páginas mostrando atividades de memória, atenção, palavras, números e perguntas para conversa. Ao lado, lápis e uma pessoa idosa usando o material. O produto deve parecer organizado, útil e profissional, como um kit digital pronto para imprimir e usar em casa. Fotografia publicitária realista, iluminação natural, alta qualidade, visual brasileiro e acolhedor. Deixe espaço na composição para título e preço. Não invente benefícios médicos."
+
+
+E tem uma regra importante: quando você tiver o produto real pronto, eu faria uma segunda rodada desses mesmos 5 prompts usando as imagens reais do produto como referência. Aí o anúncio deixa de parecer uma imagem genérica de IA e começa a parecer uma oferta de verdade.

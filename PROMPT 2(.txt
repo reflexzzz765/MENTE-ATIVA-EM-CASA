@@ -1,0 +1,191 @@
+PROMPT 2
+
+Você agora entra na ETAPA 2 do projeto Mente Ativa em Casa.
+
+A pesquisa da Etapa 1 já foi concluída. NÃO volte a fazer uma nova pesquisa ampla. Use os dados abaixo como base e transforme-os em uma oferta e um sistema de aquisição executável.
+
+CONTEXTO VALIDADO/OBSERVADO:
+- Existe mercado comercial para PDFs/apostilas/atividades para idosos.
+- Atividades de memória, atenção, linguagem, raciocínio e passatempo aparecem repetidamente.
+- O formato “pronto para imprimir” é recorrente.
+- Muitos concorrentes falam com profissionais/cuidadores técnicos.
+- Existe oportunidade de comunicação mais simples para familiares leigos.
+- Uma dor plausível e comercialmente clara é: “não sei o que fazer com meu pai/mãe/avó em casa”.
+- Organização em rotina/dias pode reduzir a dificuldade de escolher atividades.
+- Ofertas de grande volume existem, mas não devemos competir apenas por quantidade.
+- Não temos prova de que uma oferta específica seja vencedora. Portanto, trate as decisões como HIPÓTESES DE TESTE, não como fatos.
+- Não copie concorrentes. Use apenas os padrões para criar uma oferta original.
+
+MARCA:
+Mente Ativa em Casa.
+
+POSICIONAMENTO:
+Atividades simples, acolhedoras e prontas para usar em casa, ajudando familiares/cuidadores a criarem momentos de participação, entretenimento, conversa e estímulo para idosos.
+
+NÃO POSICIONAR COMO:
+- clínica;
+- tratamento;
+- terapia;
+- cura;
+- prevenção de doença;
+- substituto de profissional de saúde.
+
+NÃO FAZER PROMESSAS MÉDICAS.
+
+--------------------------------------------------
+PARTE 1 — CONSTRUA A OFERTA
+--------------------------------------------------
+
+Escolha a estrutura de produto com maior potencial de teste com base no material já pesquisado.
+
+Não crie 10 produtos.
+
+Escolha UMA oferta principal para o primeiro teste.
+
+Defina:
+- nome;
+- promessa principal;
+- mecanismo;
+- público;
+- problema;
+- transformação esperada em termos cotidianos, sem promessa médica;
+- conteúdo;
+- quantidade de atividades;
+- organização;
+- bônus, somente se realmente aumentarem o valor;
+- preço sugerido;
+- oferta/ancoragem;
+- garantia, se apropriado;
+- CTA.
+
+Priorize uma oferta simples de produzir e entregar.
+
+A oferta deve ser suficientemente boa para ser comprada, mas não devemos passar semanas construindo um produto gigante antes do primeiro teste.
+
+--------------------------------------------------
+PARTE 2 — FUNIL
+--------------------------------------------------
+
+Monte o funil mínimo viável:
+
+ANÚNCIO
+↓
+PÁGINA
+↓
+OFERTA
+↓
+CHECKOUT
+↓
+COMPRA
+
+Defina exatamente:
+- headline da página;
+- subheadline;
+- problema;
+- apresentação da solução;
+- benefícios;
+- conteúdo do produto;
+- bônus;
+- preço;
+- garantia;
+- CTA;
+- objeções;
+- FAQ.
+
+Se um funil com lead/iscas for realmente superior para esta oferta, explique brevemente e proponha-o. Caso contrário, priorize venda direta.
+
+Não complique o funil sem necessidade.
+
+--------------------------------------------------
+PARTE 3 — CRIATIVOS
+--------------------------------------------------
+
+Crie 5 CONCEITOS DE ANÚNCIO realmente diferentes:
+
+1. Dor: “não sei mais o que fazer com meu familiar”.
+2. Rotina: “uma atividade pronta para cada momento/dia”.
+3. Conexão: atividade como momento de interação familiar.
+4. Praticidade: imprimir e começar.
+5. Produto/oferta: mostrar claramente o que a pessoa recebe.
+
+Para cada conceito entregue:
+
+- Hook;
+- texto principal;
+- headline;
+- CTA;
+- conceito visual;
+- direção de cena;
+- elementos que precisam aparecer;
+- prompt completo para geração da imagem;
+- prompt completo para geração de vídeo, se aplicável.
+
+Crie versões 4:5 e 9:16.
+
+NÃO faça todos os criativos parecerem iguais.
+
+Não copie nenhum concorrente.
+
+Não invente características do produto.
+
+--------------------------------------------------
+PARTE 4 — IMAGENS DO PRODUTO
+--------------------------------------------------
+
+Quando eu fornecer imagens reais do produto, trate-as como REFERÊNCIA PRINCIPAL.
+
+Preserve:
+- aparência;
+- conteúdo;
+- identidade;
+- proporções;
+- textos importantes.
+
+Não invente páginas, bônus ou funcionalidades que não existam.
+
+Se a imagem fornecida não for suficiente para determinado criativo, diga exatamente o que falta.
+
+--------------------------------------------------
+PARTE 5 — COPY E POLÍTICAS
+--------------------------------------------------
+
+Revise toda a comunicação antes de finalizar.
+
+Evite:
+- “previne Alzheimer”;
+- “recupera a memória”;
+- “trata demência”;
+- “cura”;
+- garantias de resultado cognitivo;
+- exploração sensacionalista de doenças.
+
+Prefira:
+- momentos juntos;
+- atividades prontas;
+- rotina;
+- participação;
+- diversão;
+- conversa;
+- praticidade;
+- estímulo de forma não médica.
+
+--------------------------------------------------
+PARTE 6 — ENTREGA
+--------------------------------------------------
+
+NÃO me entregue um relatório gigante.
+
+Entregue nesta ordem:
+
+1. OFERTA ESCOLHIDA
+2. FUNIL
+3. PÁGINA DE VENDA
+4. 5 CONCEITOS DE CRIATIVO
+5. PROMPTS DE GERAÇÃO
+6. PLANO DE TESTE
+
+Depois disso, aguarde minha aprovação.
+
+Não publique anúncios ainda.
+
+A próxima etapa será configurar e preparar tudo no Meta Ads.
